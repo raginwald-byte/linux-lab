@@ -1,4 +1,4 @@
-# commands
+# Commands
 
 This folder contains the Linux commands I learn and use  during my practical exercises.
 
